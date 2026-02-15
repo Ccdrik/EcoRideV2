@@ -1,0 +1,10 @@
+# Backend
+/backend/vendor/
+/backend/var/
+
+# Frontend
+node_modules/
+
+# Env
+.env
+.env.local
